@@ -31,7 +31,7 @@ public class Message implements IMessage,
     }
 
     @Override
-    public String getId() {
+    public String getMessageId() {
         return id;
     }
 
