@@ -9,7 +9,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1
-        versionName "0.2.4"
+        versionName "0.2.6"
 
         consumerProguardFiles 'proguard.txt'
     }
@@ -32,7 +32,7 @@ android {
 
 ext {
     supportVersion = '25.3.1'
-    flexboxVersion = '0.2.5'
+    flexboxVersion = '0.2.6'
 }
 
 dependencies {
